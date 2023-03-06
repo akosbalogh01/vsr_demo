@@ -40,7 +40,7 @@
     <property role="EcuMT" value="4013794742431643324" />
     <property role="TrG5h" value="Color" />
     <property role="R5$K7" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
   <node concept="1TIwiD" id="3uNRgPvXZz6">
     <property role="EcuMT" value="4013794742431643846" />

@@ -35,7 +35,7 @@
     <property role="TrG5h" value="Timestamp" />
     <property role="R5$K7" value="true" />
     <property role="R4oN_" value="timestamp metamodel" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyi" id="3uNRgPvXJXP" role="1TKVEl">
       <property role="IQ2nx" value="4013794742431580021" />
       <property role="TrG5h" value="value" />
