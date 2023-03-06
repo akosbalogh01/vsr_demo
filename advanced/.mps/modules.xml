@@ -5,6 +5,7 @@
       <modulePath path="$PROJECT_DIR$/languages/VSR.Advanced.sandbox/VSR.Advanced.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/VSR.Advanced/VSR.Advanced.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/VSR.Color/VSR.Color.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/VSR.Song/VSR.Song.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/VSR.TimeStamp/VSR.TimeStamp.mpl" folder="" />
     </projectModules>
   </component>
