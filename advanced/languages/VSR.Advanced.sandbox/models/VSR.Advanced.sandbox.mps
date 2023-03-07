@@ -67,6 +67,9 @@
     <node concept="1Ciyl$" id="7_uHZVrDTBJ" role="1CitNN">
       <ref role="1Ciyo_" node="7_uHZVrDTBM" resolve="Winds of Change" />
     </node>
+    <node concept="1Ciyl$" id="3L0oCJNzwzs" role="1CitNN">
+      <ref role="1Ciyo_" node="3L0oCJNzwz8" resolve="Ghost" />
+    </node>
   </node>
   <node concept="1CisF5" id="7_uHZVrDSuC">
     <property role="TrG5h" value="Regret" />
@@ -107,6 +110,24 @@
       <node concept="1CivJZ" id="7_uHZVrDTBQ" role="1Ciu2y">
         <property role="1CivlO" value="0" />
         <node concept="1CiDmC" id="7_uHZVrDTC3" role="1Civj_">
+          <property role="1CiD2H" value="000000" />
+        </node>
+      </node>
+    </node>
+  </node>
+  <node concept="1CisF5" id="3L0oCJNzwz8">
+    <property role="TrG5h" value="Ghost" />
+    <property role="1CivOI" value="Ghost.flac" />
+    <node concept="1CivL9" id="3L0oCJNzwz9" role="1Cir4_">
+      <node concept="1CipK$" id="3L0oCJNzwze" role="1Civ_C">
+        <node concept="1Chq0$" id="3L0oCJNzwzm" role="1CipG1">
+          <property role="1Chgsp" value="0" />
+          <property role="1Chi9S" value="0" />
+        </node>
+      </node>
+      <node concept="1CivJZ" id="3L0oCJNzwzc" role="1Ciu2y">
+        <property role="1CivlO" value="0" />
+        <node concept="1CiDmC" id="3L0oCJNzwzp" role="1Civj_">
           <property role="1CiD2H" value="000000" />
         </node>
       </node>

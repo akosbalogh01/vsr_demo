@@ -24,6 +24,11 @@
         </facet>
       </facets>
       <external-templates />
+      <dependencies>
+        <dependency reexport="false">479c7a8c-02f9-43b5-9139-d910cb22f298(jetbrains.mps.core.xml)</dependency>
+        <dependency reexport="false">f46f47e0-75ce-4346-9b79-85c33d5363d7(VSR.Song)</dependency>
+        <dependency reexport="false">69782f34-4521-4509-8ef2-6a2a47493153(VSR.TimeStamp)</dependency>
+      </dependencies>
       <languageVersions>
         <language slang="l:f3061a53-9226-4cc5-a443-f952ceaf5816:jetbrains.mps.baseLanguage" version="12" />
         <language slang="l:fd392034-7849-419d-9071-12563d152375:jetbrains.mps.baseLanguage.closures" version="0" />
@@ -31,6 +36,7 @@
         <language slang="l:f2801650-65d5-424e-bb1b-463a8781b786:jetbrains.mps.baseLanguage.javadoc" version="2" />
         <language slang="l:760a0a8c-eabb-4521-8bfd-65db761a9ba3:jetbrains.mps.baseLanguage.logging" version="0" />
         <language slang="l:a247e09e-2435-45ba-b8d2-07e93feba96a:jetbrains.mps.baseLanguage.tuples" version="0" />
+        <language slang="l:479c7a8c-02f9-43b5-9139-d910cb22f298:jetbrains.mps.core.xml" version="0" />
         <language slang="l:ceab5195-25ea-4f22-9b92-103b95ca8c0c:jetbrains.mps.lang.core" version="2" />
         <language slang="l:b401a680-8325-4110-8fd3-84331ff25bef:jetbrains.mps.lang.generator" version="4" />
         <language slang="l:d7706f63-9be2-479c-a3da-ae92af1e64d5:jetbrains.mps.lang.generator.generationContext" version="2" />
@@ -49,7 +55,11 @@
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
         <module reference="133afdf2-48e0-4c4c-9eb5-cd03f7ca7f3d(VSR.Advanced)" version="0" />
         <module reference="433a8c02-bcee-4b38-bfb3-2f2ffc743676(VSR.Advanced.generator)" version="0" />
+        <module reference="f46f47e0-75ce-4346-9b79-85c33d5363d7(VSR.Song)" version="0" />
+        <module reference="69782f34-4521-4509-8ef2-6a2a47493153(VSR.TimeStamp)" version="0" />
+        <module reference="479c7a8c-02f9-43b5-9139-d910cb22f298(jetbrains.mps.core.xml)" version="0" />
         <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
+        <module reference="9ded098b-ad6a-4657-bfd9-48636cfe8bc3(jetbrains.mps.lang.traceable)" version="0" />
       </dependencyVersions>
       <mapping-priorities />
     </generator>
