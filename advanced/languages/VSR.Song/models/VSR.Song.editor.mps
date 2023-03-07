@@ -98,7 +98,19 @@
           <ref role="1NtTu8" to="hirn:3uNRgPvYyh_" resolve="time" />
         </node>
         <node concept="3F0ifn" id="3uNRgPvYAur" role="3EZMnx">
-          <property role="3F0ifm" value=":" />
+          <property role="3F0ifm" value="» {" />
+        </node>
+        <node concept="3F0A7n" id="3L0oCJN_1O0" role="3EZMnx">
+          <ref role="1NtTu8" to="hirn:3L0oCJN$Wc3" resolve="volume" />
+        </node>
+        <node concept="3F0ifn" id="3L0oCJN_1R9" role="3EZMnx">
+          <property role="3F0ifm" value="|" />
+        </node>
+        <node concept="3F0A7n" id="3L0oCJN_1Wn" role="3EZMnx">
+          <ref role="1NtTu8" to="hirn:3L0oCJN$Wg9" resolve="brightness" />
+        </node>
+        <node concept="3F0ifn" id="3L0oCJN_1Z3" role="3EZMnx">
+          <property role="3F0ifm" value="}:" />
         </node>
         <node concept="2iRfu4" id="3uNRgPvYAfl" role="2iSdaV" />
       </node>

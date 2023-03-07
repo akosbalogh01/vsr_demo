@@ -21,6 +21,8 @@
         <child id="4013794742431787496" name="color" index="1Civj_" />
       </concept>
       <concept id="4013794742431785284" name="VSR.Song.structure.ControlPoint" flags="ng" index="1CivL9">
+        <property id="4341578394011681539" name="volume" index="3fOU68" />
+        <property id="4341578394011681801" name="brightness" index="3fOUq2" />
         <child id="4013794742431792559" name="leds" index="1Ciu2y" />
         <child id="4013794742431786085" name="time" index="1Civ_C" />
       </concept>
@@ -75,6 +77,8 @@
     <property role="TrG5h" value="Regret" />
     <property role="1CivOI" value="Regret.flac" />
     <node concept="1CivL9" id="7_uHZVrDSuD" role="1Cir4_">
+      <property role="3fOU68" value="100" />
+      <property role="3fOUq2" value="100" />
       <node concept="1CipK$" id="7_uHZVrDS$r" role="1Civ_C">
         <node concept="1Chq0$" id="7_uHZVrDS$z" role="1CipG1">
           <property role="1Chgsp" value="0" />
@@ -101,6 +105,8 @@
     <property role="TrG5h" value="Winds of Change" />
     <property role="1CivOI" value="Winds of Change.flac" />
     <node concept="1CivL9" id="7_uHZVrDTBN" role="1Cir4_">
+      <property role="3fOU68" value="100" />
+      <property role="3fOUq2" value="100" />
       <node concept="1CipK$" id="7_uHZVrDTBS" role="1Civ_C">
         <node concept="1Chq0$" id="7_uHZVrDTC0" role="1CipG1">
           <property role="1Chgsp" value="0" />
@@ -119,6 +125,8 @@
     <property role="TrG5h" value="Ghost" />
     <property role="1CivOI" value="Ghost.flac" />
     <node concept="1CivL9" id="3L0oCJNzwz9" role="1Cir4_">
+      <property role="3fOU68" value="100" />
+      <property role="3fOUq2" value="100" />
       <node concept="1CipK$" id="3L0oCJNzwze" role="1Civ_C">
         <node concept="1Chq0$" id="3L0oCJNzwzm" role="1CipG1">
           <property role="1Chgsp" value="0" />

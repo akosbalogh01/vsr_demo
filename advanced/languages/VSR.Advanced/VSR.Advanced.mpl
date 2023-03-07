@@ -28,6 +28,7 @@
         <dependency reexport="false">479c7a8c-02f9-43b5-9139-d910cb22f298(jetbrains.mps.core.xml)</dependency>
         <dependency reexport="false">f46f47e0-75ce-4346-9b79-85c33d5363d7(VSR.Song)</dependency>
         <dependency reexport="false">69782f34-4521-4509-8ef2-6a2a47493153(VSR.TimeStamp)</dependency>
+        <dependency reexport="false">e2b045ff-58e2-445c-bf54-c3956f05f847(VSR.Color)</dependency>
       </dependencies>
       <languageVersions>
         <language slang="l:f3061a53-9226-4cc5-a443-f952ceaf5816:jetbrains.mps.baseLanguage" version="12" />
@@ -55,6 +56,7 @@
         <module reference="8865b7a8-5271-43d3-884c-6fd1d9cfdd34(MPS.OpenAPI)" version="0" />
         <module reference="133afdf2-48e0-4c4c-9eb5-cd03f7ca7f3d(VSR.Advanced)" version="0" />
         <module reference="433a8c02-bcee-4b38-bfb3-2f2ffc743676(VSR.Advanced.generator)" version="0" />
+        <module reference="e2b045ff-58e2-445c-bf54-c3956f05f847(VSR.Color)" version="0" />
         <module reference="f46f47e0-75ce-4346-9b79-85c33d5363d7(VSR.Song)" version="0" />
         <module reference="69782f34-4521-4509-8ef2-6a2a47493153(VSR.TimeStamp)" version="0" />
         <module reference="479c7a8c-02f9-43b5-9139-d910cb22f298(jetbrains.mps.core.xml)" version="0" />

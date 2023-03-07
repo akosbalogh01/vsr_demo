@@ -84,6 +84,16 @@
       <property role="20lbJX" value="fLJekj6/_1__n" />
       <ref role="20lvS9" node="3uNRgPvYyrM" resolve="LED" />
     </node>
+    <node concept="1TJgyi" id="3L0oCJN$Wc3" role="1TKVEl">
+      <property role="IQ2nx" value="4341578394011681539" />
+      <property role="TrG5h" value="volume" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="3L0oCJN$Wg9" role="1TKVEl">
+      <property role="IQ2nx" value="4341578394011681801" />
+      <property role="TrG5h" value="brightness" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
   </node>
   <node concept="1TIwiD" id="3uNRgPvYyrM">
     <property role="EcuMT" value="4013794742431786738" />
